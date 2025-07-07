@@ -36,6 +36,7 @@ This project analyzes a dataset from a Data Profession Survey using Microsoft Po
 
 project/
 ├── project.pbix # Power BI file
+├── project.xlsx #Excel file
 ├── dashboard.png # Dashboard screenshot
 ├── README.md # This file
 
